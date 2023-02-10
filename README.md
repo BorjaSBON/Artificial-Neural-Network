@@ -23,4 +23,4 @@ To solve the problems, the functions have different methods to calculate the bac
 - <b>Propagate Inputs</b>: Calculate the outputs depeding in the type of function introduce.
 - <b>Backpropagte Error</b>: Calculate the errors for each neuron backpropagating.
 - <b>Accumulate Change</b>: Calculate the gradients for each bias of each neuron.
-- <b>Adjust Weights</b>: Calculate the new weights ç.
+- <b>Adjust Weights</b>: Calculate the new weights.
